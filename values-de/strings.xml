@@ -10,19 +10,19 @@
     <string name="device_only">Nur Gerät</string>
     <string name="battery_saving">Batterie sparen</string>
     <string name="high_accuracy">Hohe Genauigkeit</string>
-    <string name="special_perms_command">Wenn abgeschlossen, klicke Bestätigen &amp; wir werden den Zugang testen, falls der Befehl fehlschlägt, versuche es erneut.</string>
+    <string name="special_perms_command">Wenn abgeschlossen, klicke Bestätigen &amp; wir werden den Zugang testen. Falls der Befehl fehlschlägt, versuche es erneut.</string>
     <string name="special_perms_required">"Besondere Berechtigungen erforderlich
         \n\nVersuche Start: "</string>
     <string name="wifi_call">Wi-Fi Anrufe</string>
     <string name="adb">ADB</string>
     <string name="NetMode">Netzwerkmodus</string>
     <string name="haptic">Haptische Rückmeldung</string>
-    <string name="root_required1">Root-Zugriff erforderlich, um zu vervollständigen</string>
+    <string name="root_required1">Root-Zugriff zum fertigstellen erforderlich</string>
     <string name="select_net_mode">Wähle Netzwerkmodus</string>
     <string name="exit">Ausgang</string>
-    <string name="root_access">Root Eigenschaften</string>
-    <string name="enable_root_features">Aktiviert Root Eigenschaften</string>
-    <string name="root_features_enabled">Root Eigenschaften aktiviert</string>
+    <string name="root_access">Root Zugriff</string>
+    <string name="enable_root_features">Aktiviere Root Funktionen</string>
+    <string name="root_features_enabled">Root Funktionen aktiviert</string>
     <string name="appicon">Appsymbol</string>
     <string name="CustomTile2">Benutzerdef. Kachel 2</string>
     <string name="CustomTile4">Benutzerdef. Kachel 4</string>
@@ -54,39 +54,39 @@
     <string name="CustomTile28">Benutzerdef. Kachel 28</string>
     <string name="CustomTile29">Benutzerdef. Kachel 29</string>
     <string name="CustomTile30">Benutzerdef. Kachel 30</string>
-    <string name="RebootRecovery">Recovery neu starten</string>
+    <string name="RebootRecovery">Ins Recovery neu starten</string>
     <string name="Reboot">Neu starten</string>
-    <string name="Screen_timeout">Bildschirm Auszeit</string>
+    <string name="Screen_timeout">Bildschirm Ruhezustand</string>
     <string name="alarm_tile">Nächster Alarm</string>
-    <string name="need_dnd">Keine Berechtigungen, bitte erlaube dem Shortcutter, DND zu überschreiben.</string>
+    <string name="need_dnd">Keine Berechtigungen, bitte erlaube dem Shortcutter, "Nicht stören" zu überschreiben.</string>
     <string name="next_alarm">Nächster Alarm
         \n</string>
     <string name="vibrate">Vibrieren</string>
     <string name="ring">Klingeln</string>
     <string name="silent">Stumm</string>
-    <string name="screen_timeout">Auszeit</string>
+    <string name="screen_timeout">Ruhezustand</string>
     <string name="additonal_perms_req">Zusätzliche Berechtigungen erforderlich</string>
-    <string name="notification_policy_message">Einige Kacheln erfordern die Möglichkeit Benachrichtigungseinstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
+    <string name="notification_policy_message">Einige Kacheln erfordern die Befähigung die Benachrichtigungseinstellungen zu ändern. Da wir diese Berechtigungen nicht normal anfordern können, musst du diese manuell aktivieren.
         \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
     <string name="proceed">Fortfahren</string>
-    <string name="system_perms_message">Einige Kacheln erfordern die Möglichkeit Systemeinstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
+    <string name="system_perms_message">Einige Kacheln erfordern die Befähigung die Systemeinstellungen zu ändern. Da wir diese Berechtigungen nicht normal anfordern können, musst du diese manuell aktivieren.
         \n\nKlicke Fortfahren &amp; du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
     <string name="press_back">Drücke die Zurück Taste, sobald sie aktiviert ist.</string>
     <string name="credits">Danksagung</string>
-    <string name="full_title">Shortcutter Einstellungen</string>
+    <string name="full_title">Shortcutter Schnelleinstellungen</string>
     <string name="thanks_for_support">"   Danke für Eure Unterstützung!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
-    <string name="confirm_disable_root">Du bist dabei alle Root Funktionen zu deaktivieren, das wird jegliche QS-Kacheln entfernen die Root Zugang benötigen.
+    <string name="confirm_disable_root">Du bist dabei alle Root Funktionen zu deaktivieren. Das wird jegliche QS-Kacheln, die Root Zugang benötigen, entfernen.
         \n\nMöchtest du fortfahren?</string>
     <string name="please_confirm">Bitte bestätigen</string>
     <string name="nothing_selected">Nichts ausgewählt</string>
     <string name="selected">"Ausgewählt: "</string>
     <string name="camera">Kamera</string>
     <string name="flashlight">Taschenlampe</string>
-    <string name="ambient_display">Schlummer Bildschirm</string>
+    <string name="ambient_display">Inaktivitätsbildschirm</string>
     <string name="reboot_now">Jetzt neu starten?</string>
     <string name="root_available">Dein Gerät scheint gerootet zu sein.
-        \nSchalt mich um für mehr QS-Kacheln!</string>
+        \nSchalt mich ein für mehr QS-Kacheln!</string>
     <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 50 Klicks.</string>
     <string name="available_in_prem3">Hohle jetzt Premium &amp; zeige deine Unterstützung!</string>
     <string name="ad_supported">Shortcutter FREE</string>
@@ -95,8 +95,8 @@
     <string name="by_leedroid">Entwickelt von LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Willkommen zu</string>
     <string name="Immersive">Vollbildmodus</string>
-    <string name="manual_secure_summary">Anwendung: Standortmodus Schalter, Vollbildmodus, ADB, Benachrichtigung, monochrom, Data Roaming, Bildschirmumgebungslicht, AN beim Aufladen &amp; Energiesparen - (Ein PC wird benötigt)</string>
-    <string name="secure_access">Einstellungen sicherer Zugang</string>
+    <string name="manual_secure_summary">Benutzung: Standortmodus Schalter, Vollbildmodus, ADB, Benachrichtigung, monochrom, Data Roaming, Inaktivitätsanzeige, AN beim Aufladen &amp; Energiesparen - (Ein PC wird benötigt)</string>
+    <string name="secure_access">Einstellungen für Sicherer Zugang</string>
     <string name="action_required">Aktion benötigt</string>
     <string name="settings_secure_instruct">Du kannst dem Shortcutter manuell Zugang zu sicheren Einstellungen gewähren, was dir mehr Kontrolle über das System erlaubt.
         \n\nBesuche vom PC aus www.leedroid.co.uk/SettingsSecureGuide &amp; folge den Anweisungen.
@@ -125,7 +125,7 @@
         \nDanke für Deine Unterstützung!</string>
     <string name="thankyou">Danke für Deine Unterstützung!</string>
     <string name="iab_error">In App Bezahlung wird auf deinem Gerät noch nicht unterstützt.
-        \n\nMöchtest du einen Premium Schlüssel im PLay Store kaufen?</string>
+        \n\nMöchtest du einen Premium Schlüssel im Play Store kaufen?</string>
     <string name="no">Nein</string>
     <string name="settings_license">LIZENZ</string>
     <string name="no_licence">Keine Lizenz erkannt</string>
@@ -140,7 +140,7 @@
     <string name="allofthe">Jede der unten genannten Optionen gewährt Dir Premium-Zugang, die Wahl liegt bei Dir :)</string>
     <string name="volumeui">Lautstärke
         \nLeiste</string>
-    <string name="manualbright">Manuell
+    <string name="manualbright">Manuelle
         \nHelligkeit</string>
     <string name="autobrightness">Auto
         \nHelligkeit</string>
@@ -156,28 +156,28 @@
     <string name="network_mode_summary">Bandnetzwerk Auswahl</string>
     <string name="adb_summary">Umschalten der Android Debug Bridge</string>
     <string name="adbtile">ADB</string>
-    <string name="alarm_summary">Zeigt nächsten Alarm, Klick öffnet Alarme</string>
+    <string name="alarm_summary">Zeigt nächsten Alarm. Klick öffnet Alarme.</string>
     <string name="alarm_tile_title">Nächster Alarm</string>
-    <string name="ambien_summary">Umgebungslicht / Schlummer Anzeige</string>
-    <string name="ambient_tile_title">Umgebungslicht Anzeige</string>
+    <string name="ambien_summary">Inaktivitätsanzeige / Schlummeranzeige</string>
+    <string name="ambient_tile_title">Inaktivitätsanzeige</string>
     <string name="autobrightness_summary">Auto Helligkeit An / Aus</string>
     <string name="autobrightness_tile_title">Auto Helligkeit</string>
     <string name="brightnesspreset_summary">Durchschalten der Helligkeitsstufen
-        \n(Definiere Stufen in den Kachel Einstellungen)</string>
+        \n(Definiere die Stufen in den Kachel Einstellungen)</string>
     <string name="brightnesspreset_tile_title">Helligkeits Voreinstellungen</string>
     <string name="camera_summary">Startet die voreingestellte Kamera App</string>
     <string name="camera_tile_title">Kamera</string>
     <string name="haptic_summary">Schalte Haptische Rückmeldung An / Aus</string>
-    <string name="headsup_summary">Schalte Hinweis Benachrichtigung</string>
+    <string name="headsup_summary">Umschalten der Hinweisbenachrichtigung</string>
     <string name="headsup">Hinweis</string>
     <string name="immersive_summary">Status verbergen &amp; Navigationleisten</string>
     <string name="immersive_tile_title">Vollbild
         \nModus</string>
-    <string name="location_summary">Schalte Standortmodus AUS/GPS/Batteriesparen/Hohe Genauigkeit</string>
+    <string name="location_summary">Schalte Standortmodus AUS/GPS/Strom sparen/Hohe Genauigkeit</string>
     <string name="location_tile_title">Standortmodus</string>
     <string name="ram_tile_title">RAM</string>
     <string name="ram_summary">Anzeigen verfügbar &amp; gesamter RAM, mit einer Verknüpfung zur RAM Information</string>
-    <string name="recovery_tile_title">Recovery neu starten</string>
+    <string name="recovery_tile_title">Ins Recovery neu starten</string>
     <string name="recovery_summary">Startet dein Gerät neu in den Recovery Modus</string>
     <string name="reboot_summary">Startet dein Gerät neu</string>
     <string name="reboot_tile_title">Neu starten</string>
@@ -185,36 +185,36 @@
     <string name="ringmode_summary">Klingelmodus umschalten zwischen Klingeln/Vibrieren/Stumm</string>
     <string name="screenrecord_summary">Eine Kachel, um alles auf Ihrem Gerätebildschirm aufzuzeichnen</string>
     <string name="screenrecord_tile_title">Bildschirmaufnahme</string>
-    <string name="screenshot_summary">Nimmt ein Standbild deines Gerätebildschirms auf</string>
+    <string name="screenshot_summary">Nimmt ein Foto deines Gerätebildschirms auf</string>
     <string name="screenshot_tile_title">Bildschirmfoto</string>
     <string name="sync_tile_title">Auto Sync</string>
     <string name="sync_summary">Aktiviere / Deaktiviere Auto Sync</string>
-    <string name="timeout_summary">Schalte Bildschirmauszeit Wert</string>
-    <string name="timeout_tile_title">Bildschirmauszeit</string>
+    <string name="timeout_summary">Wechsele Bildschirmruhezustandszeit</string>
+    <string name="timeout_tile_title">Bildschirmruhezustand</string>
     <string name="volumeui_tile_title">Lautstärkeleiste</string>
     <string name="volumeui_summary">Eine Kachel um die Lautstärkeleiste anzuzeigen</string>
-    <string name="wake_summary">Hält deinen Gerätebildschirm wach</string>
-    <string name="wake_tile_title">Bildschirm aufwecken</string>
+    <string name="wake_summary">Hält deinen Gerätebildschirm aktiv</string>
+    <string name="wake_tile_title">Bildschirm aktiv halten</string>
     <string name="tuner_summary">Starte den versteckten SystemUI Tuner
         \nFunktionalität ist herstellerabhängig</string>
     <string name="tuner_tile_title">SystemUI Tuner Kachel</string>
     <string name="prem_only">Nur Premium</string>
     <string name="settings_secure_needed">Einstellungen sicherer Zugang erforderlich</string>
-    <string name="flash_summary">Schaltet Kamera Taschenlampe</string>
+    <string name="flash_summary">Schaltet Kamerablitzlicht ein/aus</string>
     <string name="flash_tile_title">Taschenlampe</string>
     <string name="no_flash">Keine Taschenlampe gefunden</string>
-    <string name="battery_summary">Überwacht deinen Akku</string>
+    <string name="battery_summary">Überwache deinen Akkustand</string>
     <string name="battery_tile_title">Akku</string>
     <string name="on_while_charge">An während
         \nAufladen</string>
-    <string name="onwhilecharge_summary">Bildschirm anlassen während Gerät angeschlossen</string>
+    <string name="onwhilecharge_summary">Bildschirm an lassen während Gerät angeschlossen ist</string>
     <string name="oncharge_tile_title">Bildschirm AN während des Aufladens</string>
     <string name="countdown">Countdown</string>
     <string name="new_message">Neue
         \nNachricht</string>
-    <string name="cap_store_title">Bildschirmaufnahme Speicherort</string>
+    <string name="cap_store_title">Speiherort für Bildschirmaufnahme</string>
     <string name="choose_location">Speicherort wählen</string>
-    <string name="new_message_summary">Sendet eine neue SMS mit einem Klick</string>
+    <string name="new_message_summary">Sende eine neue SMS mit einem Klick</string>
     <string name="count_down">Herunterzählen</string>
     <string name="remaining">Verbleibend:</string>
     <string name="time_up">Zeit abgelaufen!</string>

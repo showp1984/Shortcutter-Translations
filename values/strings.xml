@@ -97,7 +97,7 @@
     <string name="by_leedroid">Created By LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Welcome To</string>
     <string name="Immersive">Immersive Mode</string>
-    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Chargin &amp; Power Save - (A PC is required)</string>
+    <string name="manual_secure_summary">Usage: Location Mode Toggle, Immersive Mode, ADB, Heads Up, Monochrome, Data Roaming, Ambient Display, On Wile Charging &amp; Power Save - (A PC is required)</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
     <string name="settings_secure_instruct">You can manually grant Shortcutter access to Settings Secure, allowing more control over the system.
